@@ -6,3 +6,4 @@ venv*/
 .agent
 PROGRESS.md
 TASKS.md
+chroma_db/

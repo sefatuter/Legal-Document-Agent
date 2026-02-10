@@ -4,4 +4,10 @@ python-dotenv
 chromadb
 langchain
 python-magic
-pydantic
+pydantic-settings
+pypdf
+google-genai
+requests
+langchain
+langchain-google-genai
+langchain-text-splitters
